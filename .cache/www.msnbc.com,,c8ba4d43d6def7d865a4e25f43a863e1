@@ -1,22 +1,22 @@
 status: 200
 x-ah-environment: prod
 vary: Accept-Encoding
-content-length: 97425
+content-length: 97706
 content-language: en
-x-age: 6
-etag: "1398195624-1"
-x-cache-hits: 3
+x-age: 43
+etag: "1398198560-1"
+x-cache-hits: 10
 x-ua-compatible: IE=Edge,chrome=1
-cache-control: max-age=0
-x-varnish: 1379666112 1379665820
+cache-control: public, max-age=56
+x-varnish: 1942474691 1942473414
 accept-ranges: bytes
-expires: Tue, 22 Apr 2014 19:41:22 GMT
-last-modified: Tue, 22 Apr 2014 19:40:24 +0000
+expires: Tue, 22 Apr 2014 20:31:07 GMT
+last-modified: Tue, 22 Apr 2014 20:29:20 +0000
 -content-encoding: gzip
 link: <http://www.msnbc.com/>; rel="shortlink",<http://www.msnbc.com/>;
 	rel="canonical",<http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-large.png>;
 	rel="image_src"
-date: Tue, 22 Apr 2014 19:41:22 GMT
+date: Tue, 22 Apr 2014 20:30:11 GMT
 x-drupal-cache: MISS
 content-location: http://www.msnbc.com/
 server: nginx
@@ -134,7 +134,7 @@ googletag.enableServices();
 <script src="http://www.msnbc.com/sites/msnbc/files/js/js_5KwxGnyLTGcNu9UFrtAGThuf_nWZ1CRsQ9kvsNoZ_d4.js"></script>
 <script src="http://www.msnbc.com/sites/msnbc/files/js/js__l3ksA3FPUk5mz-0KokzSi73V7YLrOsWyAFLbYLDNno.js"></script>
 <script>
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"leanforward","theme_token":"PEvqjKm3nUptVZYl4scuzBISLRWc49fEXkLiaLP8p4g","js":{"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picture.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global_header.js":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads_library.js":1,"1":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/msnbc\/libraries\/history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-sanitize.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-resource.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modules\/promise-tracker.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.8.24\/jquery-ui.min.js":1,"2":1,"3":1,"4":1,"sites\/msnbc\/modules\/custom\/msnbc_display\/js\/jquery.resize.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/main-nav-controller.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search-controller.js":1,"profiles\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/msnbc\/modules\/custom\/msnbc\/js\/script.js":1,"sites\/msnbc\/modules\/custom\/msnbc_api\/js\/msnbc_api_services.js":1,"sites\/msnbc\/modules\/custom\/msnbc_speak_out\/js\/update_polls.js":1,"sites\/msnbc\/modules\/custom\/msnbc_topics\/js\/msnbc_topics_services.js":1,"sites\/msnbc\/modules\/custom\/pub_sub_issue_select\/pub_sub_issue_select.js":1,"sites\/msnbc\/modules\/custom\/pub_topic_select\/pub_topic_select.js":1,"sites\/msnbc\/modules\/custom\/pub_hierarchy_select\/pub_hierarchy_select.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/msnbc_shows_services.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine_services.js":1,"5":1,"6":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads.js":1,"\/\/tags.msnbc.com\/nbc\/Bootstrap.js":1,"sites\/msnbc\/modules\/custom\/msnbc_analytics\/js\/msnbc_analytics.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search.js":1,"profiles\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/msnbc\/modules\/custom\/pub_infographic\/js\/pub_infographic.js":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/script.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/waypoints.min.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/msnbc_homepage2.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/msnbc_homepage2_ads.js":1,"http:\/\/nvcdn.msnbc.com\/_elliott\/jenga?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/msnbc\/themes\/leanforward\/js\/app.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modernizr.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/enquire.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/jquery.hammer.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/script.js":1,"sites\/msnbc\/themes\/leanforward\/js\/schedule.js":1,"sites\/msnbc\/themes\/leanforward\/js\/masonry.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/all\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"sites\/msnbc\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/all\/modules\/contrib\/iib\/css\/iib.css":1,"modules\/node\/node.css":1,"sites\/msnbc\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/all\/modules\/contrib\/views\/css\/views.css":1,"http:\/\/code.jquery.com\/ui\/1.8.11\/themes\/smoothness\/jquery-ui.css":1,"http:\/\/cdn.lib.newsvine.com\/jenga\/jengacss.css?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/msnbc\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/msnbc\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/msnbc\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"profiles\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/msnbc_ads.css":1,"sites\/msnbc\/files\/cef\/secure.msnbc.com\/_vine\/css\/msnbccom\/mediaqueries.css":1,"0":1,"sites\/msnbc\/themes\/leanforward\/system.theme.css":1,"sites\/msnbc\/themes\/leanforward\/css\/style.css":1}},"msnbc":{"isMSNBC":true},"analytics":[]});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"leanforward","theme_token":"SeOqN9Tn4KNsmjnMxtvwE5flRNMZoA_edWDsHVdOgRA","js":{"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picture.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global_header.js":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads_library.js":1,"1":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/msnbc\/libraries\/history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-sanitize.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-resource.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modules\/promise-tracker.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.8.24\/jquery-ui.min.js":1,"2":1,"3":1,"4":1,"sites\/msnbc\/modules\/custom\/msnbc_display\/js\/jquery.resize.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/main-nav-controller.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search-controller.js":1,"profiles\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/msnbc\/modules\/custom\/msnbc\/js\/script.js":1,"sites\/msnbc\/modules\/custom\/msnbc_api\/js\/msnbc_api_services.js":1,"sites\/msnbc\/modules\/custom\/msnbc_speak_out\/js\/update_polls.js":1,"sites\/msnbc\/modules\/custom\/msnbc_topics\/js\/msnbc_topics_services.js":1,"sites\/msnbc\/modules\/custom\/pub_sub_issue_select\/pub_sub_issue_select.js":1,"sites\/msnbc\/modules\/custom\/pub_topic_select\/pub_topic_select.js":1,"sites\/msnbc\/modules\/custom\/pub_hierarchy_select\/pub_hierarchy_select.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/msnbc_shows_services.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine_services.js":1,"5":1,"6":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads.js":1,"\/\/tags.msnbc.com\/nbc\/Bootstrap.js":1,"sites\/msnbc\/modules\/custom\/msnbc_analytics\/js\/msnbc_analytics.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search.js":1,"profiles\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/msnbc\/modules\/custom\/pub_infographic\/js\/pub_infographic.js":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/script.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/waypoints.min.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/msnbc_homepage2.js":1,"sites\/msnbc\/modules\/custom\/msnbc_homepage2\/js\/msnbc_homepage2_ads.js":1,"http:\/\/nvcdn.msnbc.com\/_elliott\/jenga?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/msnbc\/themes\/leanforward\/js\/app.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modernizr.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/enquire.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/jquery.hammer.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/script.js":1,"sites\/msnbc\/themes\/leanforward\/js\/schedule.js":1,"sites\/msnbc\/themes\/leanforward\/js\/masonry.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/all\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/msnbc\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"sites\/msnbc\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/all\/modules\/contrib\/iib\/css\/iib.css":1,"modules\/node\/node.css":1,"sites\/msnbc\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/all\/modules\/contrib\/views\/css\/views.css":1,"http:\/\/code.jquery.com\/ui\/1.8.11\/themes\/smoothness\/jquery-ui.css":1,"http:\/\/cdn.lib.newsvine.com\/jenga\/jengacss.css?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/msnbc\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/msnbc\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/msnbc\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"profiles\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/msnbc_ads.css":1,"sites\/msnbc\/files\/cef\/secure.msnbc.com\/_vine\/css\/msnbccom\/mediaqueries.css":1,"0":1,"sites\/msnbc\/themes\/leanforward\/system.theme.css":1,"sites\/msnbc\/themes\/leanforward\/css\/style.css":1}},"msnbc":{"isMSNBC":true},"analytics":[]});
 </script>
   </head>
   <body class="html front not-logged-in one-sidebar sidebar-first page-home2 homepage page__panel"  itemscope itemtype="http://schema.org/WebPage">
@@ -314,7 +314,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   <div class="pane-content">
     
-<div class="view view-homepage2 view-id-homepage2 view-display-id-homepage view-dom-id-59174f1089de41199a979fc6fa187b76">
+<div class="view view-homepage2 view-id-homepage2 view-display-id-homepage view-dom-id-ec5059dd422efd953b3193bf4be497be">
 
   <div class="hp-main">
           <div class="hp-main__header">
@@ -333,23 +333,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
           <article id='homepage-item-1' class='clearfix featured-slider featured-slider--marquee featured-slider--article'>
   <div class="featured-slider__figure">
-    <a href="/morning-joe/students-seek-debt-forgiveness-costs-surge"><span data-picture="" data-alt="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" data-title="U.S. President Obama talks to students at the University of Iowa about the rising costs of education">
-<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/articles/rtr317t6_0.jpg?itok=ldkcI-HK"  data-width="512" data-height="342"></span>
-<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/articles/rtr317t6_0.jpg?itok=V6q51ahE"  data-width="768" data-height="512"></span>
-<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr317t6_0.jpg?itok=2pu21B_O"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr317t6_0.jpg?itok=OiUGGhvV"  data-width="1245" data-height="830"></span>
-<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/articles/rtr317t6_0.jpg?itok=6wkShY5h"  data-width="1600" data-height="1066"></span>
-<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr317t6_0.jpg?itok=2pu21B_O"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr317t6_0.jpg?itok=OiUGGhvV"  data-width="1245" data-height="830"></span>
-<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0" width="1067" height="711" alt="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" title="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" /></noscript>
+    <a href="/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech"><span data-picture="" data-alt="People wait in-line to enter the U.S. Supreme Court to hear oral arguments April 22, 2014 in Washington, DC." data-title="People wait in-line to enter the U.S. Supreme Court to hear oral arguments April 22, 2014 in Washington, DC.">
+<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/486059953.jpg?itok=q33Xi508"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/486059953.jpg?itok=vPx7OODF"  data-width="512" data-height="342"></span>
+<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/486059953.jpg?itok=ZchZEIKQ"  data-width="768" data-height="512"></span>
+<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/486059953.jpg?itok=l-6XnyQJ"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/486059953.jpg?itok=peEuJUtZ"  data-width="1245" data-height="830"></span>
+<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/486059953.jpg?itok=q33Xi508"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/486059953.jpg?itok=d0xySCmv"  data-width="1600" data-height="1066"></span>
+<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/486059953.jpg?itok=l-6XnyQJ"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/486059953.jpg?itok=peEuJUtZ"  data-width="1245" data-height="830"></span>
+<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/486059953.jpg?itok=q33Xi508" width="1067" height="711" alt="People wait in-line to enter the U.S. Supreme Court to hear oral arguments April 22, 2014 in Washington, DC." title="People wait in-line to enter the U.S. Supreme Court to hear oral arguments April 22, 2014 in Washington, DC." /></noscript>
 </span></a>        <div class="featured-slider__figure__header">
-      <h2 class="featured-slider__figure__title"><a href="/morning-joe/students-seek-debt-forgiveness-costs-surge">Students seek debt forgiveness as costs surge</a></h2>
+      <h2 class="featured-slider__figure__title"><a href="/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech">Supremes side-eye ‘campaign honesty’ law</a></h2>
             <div class="featured-slider__figure__meta">
-        <div class="featured-slider__figure__meta__byline">By Jane C. Timm</div>
+        <div class="featured-slider__figure__meta__byline">By Adam Serwer</div>
       </div>
-            <div class="featured-slider__figure__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/morning-joe/students-seek-debt-forgiveness-costs-surge"  data-title="Students seek loan forgiveness in overwhelming numbers" >
+            <div class="featured-slider__figure__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech"  data-title="Susan B. Anthony List v. Driehaus: SCOTUS skeptical over Ohio law" >
   <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
   <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
   <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
@@ -362,11 +362,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
   <section class="featured-slider__content">
     <div class="featured-slider__teaser">
-      <h2 class='featured-slider__teaser__title'><a href="/morning-joe/students-seek-debt-forgiveness-costs-surge">Students seek debt forgiveness as costs surge</a></h2>
+      <h2 class='featured-slider__teaser__title'><a href="/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech">Supremes side-eye ‘campaign honesty’ law</a></h2>
       <div class="featured-slider__teaser__meta">
-        <div class="featured-slider__teaser__meta__byline">By Jane C. Timm</div>
+        <div class="featured-slider__teaser__meta__byline">By Adam Serwer</div>
       </div>
-      <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/morning-joe/students-seek-debt-forgiveness-costs-surge"  data-title="Students seek loan forgiveness in overwhelming numbers" >
+      <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech"  data-title="Susan B. Anthony List v. Driehaus: SCOTUS skeptical over Ohio law" >
   <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
   <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
   <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
@@ -380,14 +380,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="featured-slider__promos">
               <div class="featured-slider__promos__promo clearfix">
                       <div class="featured-slider__promos__promo__host">
-              <a href="/the-cycle"><img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/thecycle_s_0.png?itok=6n85NlDF" alt="" /></a>
+              <a href="/now-with-alex-wagner"><img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/now_s.png?itok=dQTnfXyC" alt="" /></a>
             </div>
                     <div class="featured-slider__promos__promo__show">
             Live Now          </div>
           <div class="featured-slider__promos__promo__text">
-            <a href="/the-cycle">The Cycle</a>          </div>
+            <a href="/now-with-alex-wagner">NOW With Alex Wagner</a>          </div>
                       <div class="featured-slider__promos__promo__description">
-              <a href="/the-cycle">3 PM ET</a>
+              <a href="/now-with-alex-wagner">4 PM ET</a>
             </div>
                   </div>
               <div class="featured-slider__promos__promo clearfix">
@@ -401,14 +401,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   </div>
               <div class="featured-slider__promos__promo clearfix">
                       <div class="featured-slider__promos__promo__host">
-              <a href="/now-with-alex-wagner"><img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/now_s.png?itok=dQTnfXyC" alt="" /></a>
+              <a href="/the-ed-show"><img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/theedshow_s.png?itok=eUHmZ3hL" alt="" /></a>
             </div>
                     <div class="featured-slider__promos__promo__show">
             Up Next          </div>
           <div class="featured-slider__promos__promo__text">
-            <a href="/now-with-alex-wagner">NOW With Alex Wagner</a>          </div>
+            <a href="/the-ed-show">The Ed Show</a>          </div>
                       <div class="featured-slider__promos__promo__description">
-              <a href="/now-with-alex-wagner">4 PM ET</a>
+              <a href="/the-ed-show">5 PM ET</a>
             </div>
                   </div>
           </div>
@@ -453,29 +453,29 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </section>
 </article>
       
-          <article id='homepage-item-3' class='clearfix featured-slider featured-slider--video featured-slider--theplatform-video'>
+          <article id='homepage-item-3' class='clearfix featured-slider featured-slider--balanced featured-slider--article'>
   <div class="featured-slider__figure">
-    <a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704" title="Abolition and the fossil fuel fight"><a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704"><span data-picture="" data-alt="Chris Hayes on set, Feb. 27, 2014." data-title="Chris Hayes on set, Feb. 27, 2014.">
-<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W"  data-width="1067" data-height="600"></span>
-<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--770x433/public/video_hayes_l2a3167005.jpg?itok=iJWQeDCH"  data-width="770" data-height="433"></span>
-<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--770x433/public/video_hayes_l2a3167005.jpg?itok=iJWQeDCH"  data-width="770" data-height="433"></span>
-<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--770x433/public/video_hayes_l2a3167005.jpg?itok=iJWQeDCH"  data-width="770" data-height="433"></span>
-<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--770x433/public/video_hayes_l2a3167005.jpg?itok=iJWQeDCH"  data-width="770" data-height="433"></span>
-<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W"  data-width="1067" data-height="600"></span>
-<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W"  data-width="1067" data-height="600"></span>
-<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W"  data-width="1067" data-height="600"></span>
-<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W"  data-width="1067" data-height="600"></span>
-<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/video_hayes_l2a3167005.jpg?itok=wVXmbt9W" width="1067" height="600" alt="Chris Hayes on set, Feb. 27, 2014." title="Chris Hayes on set, Feb. 27, 2014." /></noscript>
-</span></a></a>          <div class="featured-slider__figure__icon featured-slider__figure__icon--video"><a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704">Watch video</a></div>
-      </div>
+    <a href="/morning-joe/students-seek-debt-forgiveness-costs-surge"><span data-picture="" data-alt="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" data-title="U.S. President Obama talks to students at the University of Iowa about the rising costs of education">
+<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/articles/rtr317t6_0.jpg?itok=ldkcI-HK"  data-width="512" data-height="342"></span>
+<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/articles/rtr317t6_0.jpg?itok=V6q51ahE"  data-width="768" data-height="512"></span>
+<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr317t6_0.jpg?itok=2pu21B_O"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr317t6_0.jpg?itok=OiUGGhvV"  data-width="1245" data-height="830"></span>
+<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/articles/rtr317t6_0.jpg?itok=6wkShY5h"  data-width="1600" data-height="1066"></span>
+<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr317t6_0.jpg?itok=2pu21B_O"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr317t6_0.jpg?itok=OiUGGhvV"  data-width="1245" data-height="830"></span>
+<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr317t6_0.jpg?itok=66IYBdf0" width="1067" height="711" alt="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" title="U.S. President Obama talks to students at the University of Iowa about the rising costs of education" /></noscript>
+</span></a>    <h2 class='featured-slider__figure__title'><a href="/morning-joe/students-seek-debt-forgiveness-costs-surge">Students seek debt forgiveness as costs surge</a></h2>
+  </div>
 
   <section class="featured-slider__content">
     <div class="featured-slider__teaser">
+      <h2 class='featured-slider__teaser__title'><a href="/morning-joe/students-seek-debt-forgiveness-costs-surge">Students seek debt forgiveness as costs surge</a></h2>
       <div class="featured-slider__teaser__meta">
-        <div class="featured-slider__teaser__meta__show">Ronan Farrow Daily</div>
-        <div class="featured-slider__teaser__meta__link"><a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704">Watch video</a></div>
+        <div class="featured-slider__teaser__meta__byline">By Jane C. Timm</div>
       </div>
-      <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704"  data-title="How abolition of slavery informs the fossil fuel fight" >
+              <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/morning-joe/students-seek-debt-forgiveness-costs-surge"  data-title="Students seek loan forgiveness in overwhelming numbers" >
   <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
   <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
   <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
@@ -484,7 +484,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 
 </div>
-      <h2 class='featured-slider__teaser__title'><a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704">Abolition and the fossil fuel fight</a></h2>
+            <div class="featured-slider__teaser__text">
+        1.3 million Americans with $72 billion in debt have enrolled in forgiveness programs, leaving officials scrambling to find ways to reign in costs. <a href="/morning-joe/students-seek-debt-forgiveness-costs-surge" class="featured-slider__teaser__text__more">Read this</a>      </div>
     </div>
     <footer class="featured-slider__footer hp-content__ad"></footer>
   </section>
@@ -603,7 +604,45 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </section>
 </article>
       
-          <article id='homepage-item-7' class='clearfix featured-slider featured-slider--landscape featured-slider--slideshow'>
+          <article id='homepage-item-7' class='clearfix featured-slider featured-slider--balanced featured-slider--article'>
+  <div class="featured-slider__figure">
+    <a href="/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest"><span data-picture="" data-alt="The College of Charleston&#039;s Randolph Hall." data-title="The College of Charleston&#039;s Randolph Hall.">
+<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/h_14008023.jpg?itok=p0cjROlq"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/articles/h_14008023.jpg?itok=0VyQXo4c"  data-width="512" data-height="342"></span>
+<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/articles/h_14008023.jpg?itok=KB7lDGl9"  data-width="768" data-height="512"></span>
+<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/h_14008023.jpg?itok=8i6dpypI"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/h_14008023.jpg?itok=4sCmouQq"  data-width="1245" data-height="830"></span>
+<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/h_14008023.jpg?itok=p0cjROlq"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/articles/h_14008023.jpg?itok=IxK5hVgL"  data-width="1600" data-height="1066"></span>
+<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/h_14008023.jpg?itok=8i6dpypI"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/h_14008023.jpg?itok=4sCmouQq"  data-width="1245" data-height="830"></span>
+<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/h_14008023.jpg?itok=p0cjROlq" width="1067" height="711" alt="The College of Charleston&#039;s Randolph Hall." title="The College of Charleston&#039;s Randolph Hall." /></noscript>
+</span></a>    <h2 class='featured-slider__figure__title'><a href="/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest">College protests with gay-themed play</a></h2>
+  </div>
+
+  <section class="featured-slider__content">
+    <div class="featured-slider__teaser">
+      <h2 class='featured-slider__teaser__title'><a href="/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest">College protests with gay-themed play</a></h2>
+      <div class="featured-slider__teaser__meta">
+        <div class="featured-slider__teaser__meta__byline">By Emma Margolin</div>
+      </div>
+              <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest"  data-title="College of Charleston protests with gay-themed play &#039;Fun Home&#039;" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+</div>
+            <div class="featured-slider__teaser__text">
+        Assigning the memoir “Fun Home” could cost the College of Charleston over $50,000 in state funding. So the school hosted the musical adaptation in protest.   <a href="/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest" class="featured-slider__teaser__text__more">Read this</a>      </div>
+    </div>
+    <footer class="featured-slider__footer hp-content__ad"></footer>
+  </section>
+</article>
+      
+          <article id='homepage-item-8' class='clearfix featured-slider featured-slider--landscape featured-slider--slideshow'>
   <div class="featured-slider__figure">
     <a href="/msnbc/earth-day-arctic-devastating-transformation"><span data-picture="" data-alt="Breaching Iceberg, Greenland 2008." data-title="Breaching Iceberg, Greenland 2008.">
 <span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/_mg_0749_pt2.jpg?itok=pPDKtP4i"  data-width="1067" data-height="711"></span>
@@ -640,83 +679,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </section>
 </article>
       
-          <article id='homepage-item-8' class='clearfix featured-slider featured-slider--balanced featured-slider--article'>
-  <div class="featured-slider__figure">
-    <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016"><span data-picture="" data-alt="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" data-title="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington">
-<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/articles/rtr3gyky.jpg?itok=NbtFk0P-"  data-width="512" data-height="342"></span>
-<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/articles/rtr3gyky.jpg?itok=5rIxO0Hu"  data-width="768" data-height="512"></span>
-<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr3gyky.jpg?itok=_edtoQKu"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr3gyky.jpg?itok=qzmEVI_Y"  data-width="1245" data-height="830"></span>
-<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/articles/rtr3gyky.jpg?itok=imv34R8b"  data-width="1600" data-height="1066"></span>
-<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr3gyky.jpg?itok=_edtoQKu"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr3gyky.jpg?itok=qzmEVI_Y"  data-width="1245" data-height="830"></span>
-<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR" width="1067" height="711" alt="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" title="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" /></noscript>
-</span></a>    <h2 class='featured-slider__figure__title'><a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016">Why Kerry could hurt Hillary&#8217;s odds</a></h2>
-  </div>
-
-  <section class="featured-slider__content">
-    <div class="featured-slider__teaser">
-      <h2 class='featured-slider__teaser__title'><a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016">Why Kerry could hurt Hillary&#8217;s odds</a></h2>
-      <div class="featured-slider__teaser__meta">
-        <div class="featured-slider__teaser__meta__byline">By Timothy Noah</div>
-      </div>
-              <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/why-kerry-could-hurt-hillarys-odds-2016"  data-title="John Kerry&#039;s risk-taking could hurt Hillary&#039;s chances in 2016" >
-  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
-  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
-  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
-      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
-  </div>
-
-
-</div>
-            <div class="featured-slider__teaser__text">
-        Nobody thinks Hillary did a bad job as secretary of state, but compared to Kerry&#8217;s risk-taking, it’s a struggle to identify any noteworthy accomplishments. <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016" class="featured-slider__teaser__text__more">Read this</a>      </div>
-    </div>
-    <footer class="featured-slider__footer hp-content__ad"></footer>
-  </section>
-</article>
-      
-          <article id='homepage-item-9' class='clearfix featured-slider featured-slider--balanced featured-slider--article'>
-  <div class="featured-slider__figure">
-    <a href="/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime"><span data-picture="" data-alt="Microphones are set up in front of the U.S. Supreme Court in Washington on Jan. 13, 2014." data-title="Microphones are set up in front of the U.S. Supreme Court in Washington on Jan. 13, 2014.">
-<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/rtx17cnp.jpg?itok=lW9dnQET"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/rtx17cnp.jpg?itok=487XJscw"  data-width="512" data-height="342"></span>
-<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/rtx17cnp.jpg?itok=vqQoyab9"  data-width="768" data-height="512"></span>
-<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/rtx17cnp.jpg?itok=sbDpT26J"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/rtx17cnp.jpg?itok=fLHAe0UI"  data-width="1245" data-height="830"></span>
-<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/rtx17cnp.jpg?itok=lW9dnQET"  data-width="1067" data-height="711"></span>
-<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/rtx17cnp.jpg?itok=JkzMJQ3C"  data-width="1600" data-height="1066"></span>
-<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/rtx17cnp.jpg?itok=sbDpT26J"  data-width="830" data-height="553"></span>
-<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/rtx17cnp.jpg?itok=fLHAe0UI"  data-width="1245" data-height="830"></span>
-<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/rtx17cnp.jpg?itok=lW9dnQET" width="1067" height="711" alt="Microphones are set up in front of the U.S. Supreme Court in Washington on Jan. 13, 2014." title="Microphones are set up in front of the U.S. Supreme Court in Washington on Jan. 13, 2014." /></noscript>
-</span></a>    <h2 class='featured-slider__figure__title'><a href="/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime">Politicians may be free to lie after all</a></h2>
-  </div>
-
-  <section class="featured-slider__content">
-    <div class="featured-slider__teaser">
-      <h2 class='featured-slider__teaser__title'><a href="/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime">Politicians may be free to lie after all</a></h2>
-      <div class="featured-slider__teaser__meta">
-        <div class="featured-slider__teaser__meta__byline">By Adam Serwer</div>
-      </div>
-              <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime"  data-title="Lying in politics not a crime?" >
-  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
-  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
-  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
-      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
-  </div>
-
-
-</div>
-            <div class="featured-slider__teaser__text">
-        Despite what you&#8217;ve heard, the Supreme Court will not consider whether lying in politics violates the First Amendment. <a href="/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime" class="featured-slider__teaser__text__more">Read this</a>      </div>
-    </div>
-    <footer class="featured-slider__footer hp-content__ad"></footer>
-  </section>
-</article>
-      
-          <article id='homepage-item-10' class='clearfix featured-slider featured-slider--video featured-slider--theplatform-video'>
+          <article id='homepage-item-9' class='clearfix featured-slider featured-slider--video featured-slider--theplatform-video'>
   <div class="featured-slider__figure">
     <a href="/morning-joe/watch/the-16-questions-for-warren-keep-coming-233816131669" title="Elizabeth Warren can&amp;#8217;t escape this question"><a href="/morning-joe/watch/the-16-questions-for-warren-keep-coming-233816131669"><span data-picture="" data-alt="Sen. Elizabeth Warren, ( D-MA) listens during a hearing on Capitol Hill in Washington on March 7, 2013" data-title="Sen. Elizabeth Warren, ( D-MA) listens during a hearing on Capitol Hill in Washington on March 7, 2013">
 <span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--16-9--1067x600/public/ap130307021910_1_0.jpg?itok=nRHCxOR7"  data-width="1067" data-height="600"></span>
@@ -752,6 +715,44 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <footer class="featured-slider__footer hp-content__ad"></footer>
   </section>
 </article>
+      
+          <article id='homepage-item-10' class='clearfix featured-slider featured-slider--balanced featured-slider--article'>
+  <div class="featured-slider__figure">
+    <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016"><span data-picture="" data-alt="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" data-title="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington">
+<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 0px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/articles/rtr3gyky.jpg?itok=NbtFk0P-"  data-width="512" data-height="342"></span>
+<span data-media="(min-width: 0px) and (min-device-pixel-ratio: 1.5), (min-width: 0px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 0px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 0px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-768x512/public/articles/rtr3gyky.jpg?itok=5rIxO0Hu"  data-width="768" data-height="512"></span>
+<span data-media="(min-width: 480px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr3gyky.jpg?itok=_edtoQKu"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 480px) and (min-device-pixel-ratio: 1.5), (min-width: 480px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 480px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr3gyky.jpg?itok=qzmEVI_Y"  data-width="1245" data-height="830"></span>
+<span data-media="(min-width: 768px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR"  data-width="1067" data-height="711"></span>
+<span data-media="(min-width: 768px) and (min-device-pixel-ratio: 1.5), (min-width: 768px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1600x1066/public/articles/rtr3gyky.jpg?itok=imv34R8b"  data-width="1600" data-height="1066"></span>
+<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/articles/rtr3gyky.jpg?itok=_edtoQKu"  data-width="830" data-height="553"></span>
+<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1_5x-1245x830/public/articles/rtr3gyky.jpg?itok=qzmEVI_Y"  data-width="1245" data-height="830"></span>
+<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--1067x711/public/articles/rtr3gyky.jpg?itok=ItO8CZlR" width="1067" height="711" alt="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" title="U.S. Secretary of State Kerry testifies on Capitol Hill in Washington" /></noscript>
+</span></a>    <h2 class='featured-slider__figure__title'><a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016">How Kerry could hurt Hillary&#8217;s odds</a></h2>
+  </div>
+
+  <section class="featured-slider__content">
+    <div class="featured-slider__teaser">
+      <h2 class='featured-slider__teaser__title'><a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016">How Kerry could hurt Hillary&#8217;s odds</a></h2>
+      <div class="featured-slider__teaser__meta">
+        <div class="featured-slider__teaser__meta__byline">By Timothy Noah</div>
+      </div>
+              <div class="featured-slider__teaser__social"><div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/msnbc/why-kerry-could-hurt-hillarys-odds-2016"  data-title="John Kerry&#039;s risk-taking could hurt Hillary&#039;s chances in 2016" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+</div>
+            <div class="featured-slider__teaser__text">
+        Nobody thinks Hillary did a bad job as secretary of state, but compared to Kerry&#8217;s risk-taking, it’s a struggle to identify any noteworthy accomplishments. <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016" class="featured-slider__teaser__text__more">Read this</a>      </div>
+    </div>
+    <footer class="featured-slider__footer hp-content__ad"></footer>
+  </section>
+</article>
         </div><!-- /.hp-main-content -->
     
     <aside class="hp-main__rail">
@@ -763,25 +764,25 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
       <div class="view-content">
       <div class="item-list">    <ul class="featured-slider-menu">          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
-          <a href="/morning-joe/students-seek-debt-forgiveness-costs-surge" data-fragment="#homepage-item-1" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">1</span><span class="featured-slider-menu__item__link__title">Students seek debt forgiveness as costs surge</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
+          <a href="/msnbc/supreme-court-susan-b-anthony-list-driehaus-campaign-lying-free-speech" data-fragment="#homepage-item-1" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">1</span><span class="featured-slider-menu__item__link__title">Supremes side-eye &#039;campaign honesty&#039; law</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--article">  
           <a href="/msnbc/hillary-clinton-grandma-sexism" data-fragment="#homepage-item-2" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">2</span><span class="featured-slider-menu__item__link__title">The sexist reaction to &#039;Grandma Hillary&#039;</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
-          <li class="featured-slider-menu__item featured-slider-menu__item--theplatform-video">  
-          <a href="/ronan-farrow/watch/abolition-of-slavery-the-fossil-fuel-fight-234149443704" data-fragment="#homepage-item-3" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">3</span><span class="featured-slider-menu__item__link__title">Abolition and the fossil fuel fight</span><span class="featured-slider-menu__item__link__sponsor"></span><span class="featured-slider-menu__item__link__call-to-action">Watch</span></a>  </li>
+          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
+          <a href="/morning-joe/students-seek-debt-forgiveness-costs-surge" data-fragment="#homepage-item-3" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">3</span><span class="featured-slider-menu__item__link__title">Students seek debt forgiveness as costs surge</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--article">  
           <a href="/politicsnation/mayor-resigns-amid-racial-tension" data-fragment="#homepage-item-4" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">4</span><span class="featured-slider-menu__item__link__title">Mayor resigns amid racial tension</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--article">  
           <a href="/politicsnation/supreme-court-upholds-affirmative-action-ban" data-fragment="#homepage-item-5" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">5</span><span class="featured-slider-menu__item__link__title">New blow to affirmative action</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--theplatform-video">  
           <a href="/jansing-and-co/watch/meeks-on-mccain-thank-god-hes-not-president-233990211880" data-fragment="#homepage-item-6" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">6</span><span class="featured-slider-menu__item__link__title">Dem: &#039;Thank God&#039; McCain isn&#039;t president</span><span class="featured-slider-menu__item__link__sponsor"></span><span class="featured-slider-menu__item__link__call-to-action">Watch</span></a>  </li>
+          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
+          <a href="/msnbc/college-of-charleston-stages-fun-home-gay-themed-play-protest" data-fragment="#homepage-item-7" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">7</span><span class="featured-slider-menu__item__link__title">College protests with gay-themed play</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--slideshow">  
-          <a href="/msnbc/earth-day-arctic-devastating-transformation" data-fragment="#homepage-item-7" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">7</span><span class="featured-slider-menu__item__link__title">The Arctic&#039;s devastating transformation</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
-          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
-          <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016" data-fragment="#homepage-item-8" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">8</span><span class="featured-slider-menu__item__link__title">Why Kerry could hurt Hillary&#039;s odds</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
-          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
-          <a href="/msnbc/supreme-court-susan-b-anthony-list-lying-politics-not-crime" data-fragment="#homepage-item-9" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">9</span><span class="featured-slider-menu__item__link__title">Politicians may be free to lie after all</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
+          <a href="/msnbc/earth-day-arctic-devastating-transformation" data-fragment="#homepage-item-8" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">8</span><span class="featured-slider-menu__item__link__title">The Arctic&#039;s devastating transformation</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
           <li class="featured-slider-menu__item featured-slider-menu__item--theplatform-video">  
-          <a href="/morning-joe/watch/the-16-questions-for-warren-keep-coming-233816131669" data-fragment="#homepage-item-10" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">10</span><span class="featured-slider-menu__item__link__title">Elizabeth Warren can&#039;t escape this question</span><span class="featured-slider-menu__item__link__sponsor"></span><span class="featured-slider-menu__item__link__call-to-action">Watch</span></a>  </li>
+          <a href="/morning-joe/watch/the-16-questions-for-warren-keep-coming-233816131669" data-fragment="#homepage-item-9" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">9</span><span class="featured-slider-menu__item__link__title">Elizabeth Warren can&#039;t escape this question</span><span class="featured-slider-menu__item__link__sponsor"></span><span class="featured-slider-menu__item__link__call-to-action">Watch</span></a>  </li>
+          <li class="featured-slider-menu__item featured-slider-menu__item--article">  
+          <a href="/msnbc/why-kerry-could-hurt-hillarys-odds-2016" data-fragment="#homepage-item-10" class="featured-slider-menu__item__link"><span class="featured-slider-menu__item__link__number">10</span><span class="featured-slider-menu__item__link__title">How Kerry could hurt Hillary&#039;s odds</span><span class="featured-slider-menu__item__link__sponsor"></span></a>  </li>
       </ul></div>    </div>
   
   
@@ -799,21 +800,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div>
 </div>        </footer>
         <div>
-          <div class="view view-show-tiles view-id-show_tiles view-display-id-panel_pane_show_tiles_short show-tiles view-dom-id-4b7acb07418d53c439280ba1fd34f83b">
+          <div class="view view-show-tiles view-id-show_tiles view-display-id-panel_pane_show_tiles_short show-tiles view-dom-id-eb3f38dd9e440e9cca89982b9e85665f">
         
   
   
       <div class="view-content">
         <div class="show-tile">
-    <a href="/melissa-harris-perry" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-melissa_harris-perry.jpg?itok=hT2hDSx1);">
-
-  <h3 class="show-tile__title element-invisible">Melissa Harris-Perry</h3>
-  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/melissaharris-perry_s.png?itok=PfD5HzHg" alt="Melissa Harris-Perry" />
-  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_mhp_ws_1.png?itok=hbCMEG8_);"></div>
-
-</a>
-  </div>
-  <div class="show-tile">
     <a href="/documentaries" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/documentaries-background.png?itok=h_INGZG-);">
 
   <h3 class="show-tile__title element-invisible">MSNBC Documentaries</h3>
@@ -823,29 +815,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </a>
   </div>
   <div class="show-tile">
-    <a href="/first-look" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-firstlook.png?itok=4Q7iTe96);">
+    <a href="/melissa-harris-perry" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-melissa_harris-perry.jpg?itok=hT2hDSx1);">
 
-  <h3 class="show-tile__title element-invisible">First Look</h3>
-  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/blank_s_3.png?itok=pDZyP6bm" alt="Richard Lui, Veronica De La Cruz" />
-  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_firstlook_ws.png?itok=JBaHTZiS);"></div>
-
-</a>
-  </div>
-  <div class="show-tile">
-    <a href="/the-ed-show" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-the_ed_show.jpg?itok=WQ0S38rY);">
-
-  <h3 class="show-tile__title element-invisible">The Ed Show</h3>
-  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/theedshow_s.png?itok=eUHmZ3hL" alt="Ed Schultz" />
-  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_edshow_ws_1.png?itok=z7-OEdz9);"></div>
+  <h3 class="show-tile__title element-invisible">Melissa Harris-Perry</h3>
+  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/melissaharris-perry_s.png?itok=PfD5HzHg" alt="Melissa Harris-Perry" />
+  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_mhp_ws_1.png?itok=hbCMEG8_);"></div>
 
 </a>
   </div>
   <div class="show-tile">
-    <a href="/news-nation" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-news_nation_with_tamron_hall.jpg?itok=wcNZ3Oy3);">
+    <a href="/politicsnation" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-politics_nation_with_al_sharpton.jpg?itok=k-c6HkNU);">
 
-  <h3 class="show-tile__title element-invisible">NewsNation with Tamron Hall</h3>
-  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/newsnation_s.png?itok=pyPgeb8c" alt="Tamron Hall" />
-  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_newsnation_ws.png?itok=GuErCzmI);"></div>
+  <h3 class="show-tile__title element-invisible">PoliticsNation with Al Sharpton</h3>
+  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/politicsnation_s.png?itok=FAk0xqr4" alt="Al Sharpton" />
+  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_politicsnation_ws.png?itok=OtpBSLf4);"></div>
 
 </a>
   </div>
@@ -855,6 +838,24 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <h3 class="show-tile__title element-invisible">Afternoon MoJoe</h3>
   <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/morningjoe_s_0.png?itok=PWNfGqHZ" alt="Joe Scarborough, Mika Brzezinski, Willie Geist" />
   <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_mojoe_s_1.png?itok=HWTJKMYh);"></div>
+
+</a>
+  </div>
+  <div class="show-tile">
+    <a href="/weekends-with-alex" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-weekends_with_alex_witt.jpg?itok=RoBOHcjX);">
+
+  <h3 class="show-tile__title element-invisible">Weekends with Alex Witt</h3>
+  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/weekends_s_0.png?itok=NQZSKLVM" alt="Alex Witt" />
+  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_weekends_ws_0.png?itok=XcLW0YCl);"></div>
+
+</a>
+  </div>
+  <div class="show-tile">
+    <a href="/craig-melvin" class="show-tile--short__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background_craigmelvin.png?itok=YfgVPHBe);">
+
+  <h3 class="show-tile__title element-invisible">Craig Melvin</h3>
+  <img class="show-tile--short__headshot" src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_small/craigmelvin_s_1.png?itok=UC8nH9Td" alt="Craig Melvin" />
+  <div class="show-tile--short__logo" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_small/logo_craigmelvin_ws.png?itok=2pKjcIQD);"></div>
 
 </a>
   </div>

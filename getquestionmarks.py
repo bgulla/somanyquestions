@@ -5,6 +5,7 @@ import urllib2
 import socket
 import sys
 import httplib2
+import dbmodule
 #print "all modules imported successfully"
 
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0'
@@ -39,11 +40,12 @@ soup = BeautifulSoup(html)
 
 count =0
 for link in soup.find_all("a",""):
-#	print link.text
 	if "?" in link.text:
 		count = count +1
 #		print link.text
 
-#f.close()
-#html.close()
+
 print "Number of Question Marks Currently on " + searchurl + ":\t" + str(count)
+
+# Update the database
+dbmodule.update_site_count(searchurl,str(count))

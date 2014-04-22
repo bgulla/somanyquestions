@@ -118,6 +118,9 @@ def update_site_count(url,new_count):
 	"""
 	
 	site_id = get_id_from_url(url)
+	if site_id == -1:
+		print "Unable to retrieve site_id from database. bailing"
+		exit()
 	
 	try:
 		con = lite.connect(DB_NAME)
@@ -176,5 +179,5 @@ def get_site_count(url):
 #print get_id_from_url("http://foxnews2.com")
 
 site = "http://cnn.com"
-update_site_count(site,9999)
-print get_site_count(site)
+#update_site_count(site,9999)
+#print get_site_count(site)
