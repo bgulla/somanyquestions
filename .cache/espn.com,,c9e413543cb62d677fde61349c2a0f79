@@ -1,0 +1,17 @@
+status: 301
+x-cnection: close
+content-location: http://espn.com
+content-length: 227
+server: Apache
+location: http://espn.go.com/
+date: Tue, 22 Apr 2014 15:05:47 GMT
+-x-permanent-redirect-url: http://espn.go.com/
+content-type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://espn.go.com/">here</a>.</p>
+</body></html>

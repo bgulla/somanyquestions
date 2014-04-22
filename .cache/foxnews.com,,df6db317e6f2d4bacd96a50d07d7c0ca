@@ -1,0 +1,9 @@
+status: 301
+content-length: 0
+content-location: http://foxnews.com/
+server: AkamaiGHost
+connection: keep-alive
+location: http://www.foxnews.com/
+date: Tue, 22 Apr 2014 13:12:04 GMT
+-x-permanent-redirect-url: http://www.foxnews.com/
+

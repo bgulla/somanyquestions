@@ -1,0 +1,12 @@
+status: 301
+content-location: http://nbcnews.com
+x-powered-by: ASP.NET
+server: Microsoft-IIS/7.5
+location: http://www.nbcnews.com/
+date: Tue, 22 Apr 2014 13:58:44 GMT
+access-control-allow-origin: *
+content-type: text/html; charset=UTF-8
+-x-permanent-redirect-url: http://www.nbcnews.com/
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://www.nbcnews.com/">here</a></body>
