@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup 
 import urllib2
 import socket
 import sys
